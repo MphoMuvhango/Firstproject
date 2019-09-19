@@ -2,4 +2,5 @@
 This is a test document for git and Vi on my laptop.
 This is quite an exciting experience.
 YAY!!
- 
+
+okay now i am just having fun 
